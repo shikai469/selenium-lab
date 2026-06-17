@@ -1,4 +1,4 @@
-# Lab 9: Kiểm Thử Tự Động Với Selenium WebDriver
+# Kiểm Thử Tự Động Với Selenium WebDriver
 
 ## 1. Mục tiêu bài thực hành
 Học và áp dụng công cụ kiểm thử tự động Selenium WebDriver để mô phỏng các thao tác của người dùng thực. Dự án thực hiện kiểm thử trên trang web thương mại điện tử demo: `https://www.saucedemo.com/`.
